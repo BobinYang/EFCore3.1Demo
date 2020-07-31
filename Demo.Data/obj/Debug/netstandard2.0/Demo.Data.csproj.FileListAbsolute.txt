@@ -1,0 +1,5 @@
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\bin\Debug\netstandard2.0\Demo.Data.deps.json
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\bin\Debug\netstandard2.0\Demo.Data.dll
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.0\Demo.Data.csprojAssemblyReference.cache
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.0\Demo.Data.AssemblyInfoInputs.cache
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.0\Demo.Data.AssemblyInfo.cs

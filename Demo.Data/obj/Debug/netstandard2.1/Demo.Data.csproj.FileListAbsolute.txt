@@ -1,0 +1,12 @@
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\bin\Debug\netstandard2.1\Demo.Data.deps.json
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\bin\Debug\netstandard2.1\Demo.Data.dll
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\bin\Debug\netstandard2.1\Demo.Domain.dll
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\bin\Debug\netstandard2.1\Demo.Domain.pdb
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.csprojAssemblyReference.cache
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.AssemblyInfoInputs.cache
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.AssemblyInfo.cs
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.csproj.CopyComplete
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\bin\Debug\netstandard2.1\Demo.Data.pdb
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.csproj.CoreCompileInputs.cache
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.dll
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.pdb
