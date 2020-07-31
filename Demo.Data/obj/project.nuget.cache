@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5zfBtGiKpNpar2t8+Axd42k7tpVCSIBKYnR0XhEubsk6F21YoCtsI/GSgTVvAgRhvW55nf42PzfFkAsYWDmtWg==",
+  "dgSpecHash": "rXaYNm0OnfHx/4tSM7+dLXi7zC/gw7f5YTzL3UZdFI/U7GxC9DtpWRBP/IpBUU0fwC+trZey/D/6NjXpIywPjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bobin.yang\\Source\\Repos\\Demo\\Demo.Data\\Demo.Data.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,10 @@
     "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\microsoft.extensions.logging.3.1.6.nupkg.sha512",
     "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.6\\microsoft.extensions.logging.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.6\\microsoft.extensions.logging.console.3.1.6.nupkg.sha512",
     "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.6\\microsoft.extensions.options.configurationextensions.3.1.6.nupkg.sha512",
     "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
     "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\bobin.yang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

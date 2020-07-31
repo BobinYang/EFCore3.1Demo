@@ -50,3 +50,6 @@ C:\Users\bobin.yang\Source\Repos\Demo\Demo.App\bin\Debug\netcoreapp3.1\Demo.Data
 C:\Users\bobin.yang\Source\Repos\Demo\Demo.App\bin\Debug\netcoreapp3.1\Demo.Domain.dll
 C:\Users\bobin.yang\Source\Repos\Demo\Demo.App\bin\Debug\netcoreapp3.1\Demo.Data.pdb
 C:\Users\bobin.yang\Source\Repos\Demo\Demo.App\bin\Debug\netcoreapp3.1\Demo.Domain.pdb
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\bobin.yang\Source\Repos\Demo\Demo.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
